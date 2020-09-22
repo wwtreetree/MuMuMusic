@@ -1,0 +1,11 @@
+[
+  {
+    "Artist": {
+      "musicName": "Rainbow",
+      "musicStyle": "JAZZ",
+      "favoriteMusic": true,
+      "musicName": "Sunny",
+      "musicStyle": "POP",
+      "favoriteMusic": false
+    }
+  }
