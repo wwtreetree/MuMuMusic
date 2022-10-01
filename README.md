@@ -84,7 +84,6 @@ name to have a basic easier understanding about each class information..
 
 
 There is a UML diagram for better understanding!
-Thanks for checking:)
 
 
 
